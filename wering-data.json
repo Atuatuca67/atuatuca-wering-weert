@@ -1,0 +1,56 @@
+{
+  "theory": "De Wering van Weert (Atuatuca Herinterpretatie)",
+  "academic_foundation": {
+    "author": "Edwin MH Smeets",
+    "publication_title": "Het Grootste Geestelijke Centrum Van De Prehistorie",
+    "source_archive_url": "https://archive.org",
+    "monument_size_hectares": 33,
+    "estimated_burials": 3100,
+    "period_bce": "1050-500"
+  },
+  "linguistic_mappings": [
+    {
+      "historical_term": "Krigsgaldr",
+      "language_origin": "Old Norse / Proto-Germanic",
+      "wieerts_dialect_term": "Krieg-galder / Galdere",
+      "functional_meaning": "Oorlogsbrullen / Strijdlied / Magische bezwering"
+    },
+    {
+      "historical_term": "Wyrd",
+      "language_origin": "Proto-Germanic / Anglo-Saxon",
+      "wieerts_dialect_term": "Wieërt",
+      "functional_meaning": "Het kosmische lot / Actieve defensieve structuur (Wering)"
+    },
+    {
+      "historical_term": "Hulda / Holda",
+      "language_origin": "Germanic Mythology (Vrouw Holle)",
+      "wieerts_dialect_term": "Leuken",
+      "functional_meaning": "De luiken of poorten naar de onderwereld en het weer"
+    },
+    {
+      "historical_term": "Skuld",
+      "language_origin": "Norse Mythology (Norn of Future/Death)",
+      "wieerts_dialect_term": "Schedel / Urnen",
+      "functional_meaning": "De bewaker van de toekomst en de overledenen op het urnenveld"
+    },
+    {
+      "historical_term": "Pelo / Pala",
+      "language_origin": "Proto-Germanic",
+      "wieerts_dialect_term": "De Pieël (Peel)",
+      "functional_meaning": "Het onbegaanbare moeras / De natuurlijke slotgracht"
+    }
+  ],
+  "roman_context": {
+    "source_text": "Julius Caesar - Commentarii de Bello Gallico, Book VI.32",
+    "latin_phrase": "Id castelli nomen est",
+    "traditional_translation": "Dat is de naam van het fort [Atuatuca]",
+    "functional_translation_wieerts_logic": "Dat is wat zij een versterking / wering noemen",
+    "implication": "Atuatuca is een soortnaam voor landschappelijke afwering, exact beantwoordend aan de topografie van Weert."
+  },
+  "geographical_landscape_nodes": {
+    "fortress_spine": "Hoogstraat (Vastgeschroefde zandrug / De Pijl)",
+    "military_fortification": "Molenakker (Keltische Schans, 10 hectare)",
+    "ritual_gateway": "Leuken (Het Oord aan de moerasgrens)",
+    "sacred_death_realm": "Boshoverheide (De andere kant / Urnenveld)"
+  }
+}
